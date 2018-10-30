@@ -1,1 +1,2 @@
 readme. using QT
+laptop
